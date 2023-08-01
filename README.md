@@ -1,6 +1,15 @@
 ### Hi there 👋. I'm Alexander. Python-developer.
 
-Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Linux/Nginx/Unittest.
+Languages and Tools:
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- Docker
+- Linux
+- Nginx
+- Gunicorn
+- Unittest
 
 Telegram - @amalshakov
 
