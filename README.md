@@ -4,6 +4,8 @@ Languages and Tools:
 - Python
 - Django
 - Django REST Framework
+- Flask
+- FastAPI
 - PostgreSQL
 - Docker
 - Linux
