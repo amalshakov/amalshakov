@@ -11,7 +11,7 @@ Languages and Tools:
 - Linux
 - Nginx
 - Gunicorn
-- Unittest
+- Unittest / Pytest
 
 Telegram - @amalshakov
 
