@@ -2,18 +2,17 @@
 
 Languages and Tools:
 - Python
+- FastAPI
+- SQLAlchemy
 - Django
 - Django REST Framework
 - Flask
-- FastAPI
 - PostgreSQL
 - Docker
 - Linux
 - Nginx
-- Gunicorn
-- Unittest / Pytest
-
-Telegram - @amalshakov
+- Gunicorn / Uvicorn
+- Pytest / Unittest
 
 <!--
 **amalshakov/amalshakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
